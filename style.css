@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+}
+
+nav {
+	background-color: dodgerblue;
+	width: 100%;
+	height: auto;
+}
+
+a {
+	padding: 10px 10px;
+	margin: 20px 10px;
+  color: white;
+}
+
